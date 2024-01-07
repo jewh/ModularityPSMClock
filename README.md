@@ -3,7 +3,7 @@
 
 
 
-## Visualisation - Animation rendering using Ovito 
+<!-- ## Visualisation - Animation rendering using Ovito 
 
 Converts cell position data into animations, created using Ovito, a piece of software used for visualising and simulating particle dynamics in chemistry [ovito.org](https://www.ovito.org/). Here's an example of an animation made using Ovito:
 
@@ -20,4 +20,4 @@ An .xyz file (at least as read by ovito) assumes the first three columns are the
 
 ## Open Issues:
 
-This is far from a smooth and clear workflow, so for now I will focus on allowing easy adjustment of the aesthetic parameters, and clarifying the python scripts so that users may easily animate their data with minimal coding. 
+This is far from a smooth and clear workflow, so for now I will focus on allowing easy adjustment of the aesthetic parameters, and clarifying the python scripts so that users may easily animate their data with minimal coding.  -->
