@@ -1,0 +1,13 @@
+# WARNING: THIS NEEDS TO BE ASNI ENCODED. UTF-8/16 WILL NOT WORK.
+
+# vscode
+/.vscode/
+
+# frames for animation
+snapshots/*
+
+# Virtual environment
+.venv
+
+# vscode stuff
+*.json
